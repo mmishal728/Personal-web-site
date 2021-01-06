@@ -1,0 +1,120 @@
+h1 {
+  font-size: 45px;
+}
+.name-color {
+  color: blue;
+}
+p {
+  font-size: 35px;
+}
+.per-width {
+  width: 45%;
+  float: left;
+  padding: 2%;
+  padding left: 15%;
+
+}
+.per-width img {
+  width: 100%;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,blue ,rgb(140, 140, 228) );
+    color: white;
+    border-radius: 5px;
+    padding: 13px 20px ;
+    font-weight: 700;
+
+}
+/* 2nd part  */
+.about{
+    color: orange;
+}
+.button2{
+    text-decoration: none;
+    background-image: linear-gradient(blue,black); 
+    color:white;
+    border-radius: 5px;
+    padding:13px 20px;
+    font-weight: 700;
+}
+.align{
+    text-align: center;
+    float:buttom;
+}
+.half-height{
+    height: 1000px;
+}
+/* 3rd part */
+.set-img{
+    padding: 25px;
+}
+
+
+.box {
+    width: 30%;
+    padding-left: 22px;
+    padding-right: 22px;
+    float: left;
+    height: 1000px;
+
+
+
+}
+
+.box p{
+    font-size: 25px;
+}
+.box img {
+    width: 100%;
+}
+/* .below-text{
+    width: 30%;
+    padding-left: 22px;
+    padding-right: 22px;
+    float: left;
+
+} */
+.box{
+    border: 1px solid white;
+    height: 600px;
+}
+.boder{
+    box-shadow: 100px 100px 150px gray;
+    .h{
+        1000px
+    }
+/* 4th part */
+}
+.Mishal{
+    width: 
+    float: left;
+    background-image: url(image/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:100px auto;
+    width: 150px ;
+    background-size:cover;
+
+
+
+}
+.class{
+    mergin: 22%
+}
+
+}
+
+.link-button{
+    background-image:linear-gradient(rgb(212, 179, 116),orange) ;
+    text-decoration: none;
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: white;
+    font-size: 30px;
+
+}
+
+
+
+    
